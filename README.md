@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zyb
-- 👀 I’m interested in Go,Python, C++
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in Go,Python, C++, Rust
+- 🌱 I’m currently learning Golang, Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
